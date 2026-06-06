@@ -1,0 +1,11 @@
+---
+title: Erythnul
+description: A sideways world of extremes
+---
+Erythnul is a red giant star in Vaardspace. Erythnul has one populated world in its orbit that goes by the same name. The star frequently and unpredictably ejects coronal mass due to violently changing magnetic anomalies. The danger posed by these anomalies earned Erythnul its name. 
+
+The world Erythnul rotated on an axis that is tidally locked facing the star. Therefore the north of Erythnul is a blazingly hot wasteland and the south is frozen in eternal night.
+
+Erythnul is ruled by an ancient red dragon named X, who claimed the world as their lair roughly 1,000 years after the Disconcordance. X uses the world to host combat tournaments and has gained a fabulous horde through gambling.
+
+All settlements on Erythnul lie on its single continent, which stretches from  pole to pole. The lair of X is at its north, pointed towards the star. The south pole is home to some of the most spectacular aurora displays in the galaxy.

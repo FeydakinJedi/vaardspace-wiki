@@ -1,0 +1,5 @@
+The Temple of the Choir, or just The Temple, is a region near the core of the Greater Sagittarian Sphere that is controlled by the Children of Oshumare, or Dragonkind. The Children consider this region of the galaxy sacred and strictly enforce it's borders. Only dragons, their disciples, and their honored guests may enter the borders.
+
+The borders are defended in a variety of ways.ost often by fleest of ships crewedd by dragon born and adult or ancient dragons flying in hard vacuum. The Draconic Nephil war began when the Nephilim attempted to invade the Temple of the Choir. The Nephilim managed to set outposts in a few spheres on the edge of the Temple's borders, which were completely destroyed in the war.
+
+Nobody knows for certain what lies within the borders of the Temple. Only rumors exist because nobody who has visited the Temple has disclosed its secrets. Dragonborn seem to enjoy the rumors and will actively spread contradictory accounts for fun.

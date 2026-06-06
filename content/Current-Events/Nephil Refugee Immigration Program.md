@@ -1,0 +1,1 @@
+Nephil is spreading word that any refugees from Vaardspace, the Neoji Hegemony, or unaligned spheres caught in the conflict will receive assistance finding a place to live and a vocation in the Nephil empire. They offer protection from from invasion and claim that they are the true bastion of freedom and security in the Greater Sphere.
