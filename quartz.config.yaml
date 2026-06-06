@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: FeydakinJedi.github.io/vaardwiki
+  baseUrl: FeydakinJedi/githun.io/vaardspace-wiki
   ignorePatterns:
     - private
     - templates
