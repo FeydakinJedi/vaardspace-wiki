@@ -1,6 +1,6 @@
 ---
-title: State of the Galaxy
-description: Current happenings around the Greater Sphere
+title: Emerald-Neoji War
+description: Vaardspace is being invaded by the Neoji
 ---
 ## The Emerald Armada is at war with the Neogi Hegemony
 The Emerald Armada declared open war on the Neogi Hegemony in response to Neogi ground forces that were building up on the border and a secret agent who was placed in the Armada forces.
