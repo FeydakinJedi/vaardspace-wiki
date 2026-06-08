@@ -1,1 +1,5 @@
-The Rock of Bral is a free floating city on a chunk of rock
+The Rock of Bral is a city on a free floating asteroid. The city is an independent state governed by a dynastic monarchy and council of powerful houses and factions. The Rock is extremely old and was part of the Toril sphere prior to the Disconcordance. Some time in the aftermath, massive spelljamming engines were installed on the Rock, allowing it to travel through hyperspace. Since then, the Rock has wandered through the galaxy, relocating every few years or decades according to the direction of the ruling monarch.
+
+The Rock of Bral is well known for being the most cosmopolitan place in the galaxy. The finest luxuries, the latest fashions, the best food, the most novel innovations, the best shipyards, and much political power pulses through the city. It offers notable destinations such as The Infernal Rapture spa and resort, the Laughing Beholder pub, and the Pantheist Temple of Tyr.
+
+Being independently governed and neutral in most intersphereal conflicts has made The Rock an invaluable location for war and peace negotiations, trade deals, and safe harbor for freebooters around the galaxy. Order is maintained by strict enforcement of the law where infractions can easily get you banned from The Rock or executed.
