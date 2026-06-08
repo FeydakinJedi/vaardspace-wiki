@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: /
+  baseUrl: vaardspace-wiki.akashic-records.space
   ignorePatterns:
     - private
     - templates
