@@ -1,0 +1,2 @@
+The Greater Saggitarian Sphere is the setting of Vaardspace. It is the galaxy in which all the action takes place. Nobody knows why the sphere is called "Sagittarian," it seems to be a linguistic artifact from the Disconcordance. Check out the map below to see the current borders of various interstellar factions.
+![[GreaterSphereMap.webp]]

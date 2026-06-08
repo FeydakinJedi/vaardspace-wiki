@@ -4,6 +4,8 @@ description: The religion of arcane engineering
 ---
 The Star Cogs are a group of inventors and artificers who worship Gond. The Star Cogs were founded by gnomes who found their way into the material realm later than the elves who formed the Emerald Armada, but also before the Disconcordance. Star Cogs are the most prodigious, ambitious, and advanced inventors in the galaxy.
 
+![[StarCog.png]]
+
 The early origins of the Star Cogs are shrouded by mystery, no historical accounts of them exist outside of their own. According to their mythos, the first Star Cogs were gnomes who lived in the feywild and worshiped the god of artificery, Gond. As a reward for their devotion, Gond opened their way to the material plane and showed them the secrets of of using technology to channel magic. They were thus "born among the stars." When the Armada made contact with them, they were living in a network of space stations among a debris nebula around a bright yellow star. The Cogs were thrilled to meet the elves of the Armada, and immediately began a mutually beneficial relationship.
 
 The Star Cogs were fascinated by the spelljamming technology used by the Armada. They j huh and reverse-engineered a spelljammer helm and a phlogistonal phasic engine that allowed ships to enter hyperspace.
