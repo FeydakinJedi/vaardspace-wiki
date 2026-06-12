@@ -22,4 +22,4 @@ Browse this wiki and skim the pages. Imagine a character you think would be fun 
 
 We treat this game like a serious tactical combat game, have genuine roleplay and moral quandaries, and silly jokes and cartoon antics. Characters in this setting are not aware they are in a game, so they don't intentionally break the fourth wall. We respect each other and treat each other kindly.
 
-You will have a session 0 with the GM in which you can
+You will have a session 0 with the GM in which you can brainstorm ideas for your character and ask questions about the setting. Depending on who your character is, you may have allies or enemies in various factions, which may make you privy to some secrets of the setting.
