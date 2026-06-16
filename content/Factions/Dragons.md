@@ -17,3 +17,9 @@ When the Disconcordance occurred, dragons made an alliance with the high elves w
 Dragons do not readily reveal knowledge about the cosmos. Even when discussing prosaic matters, dragons will often speak in poetry or riddles. They claim that such unclear language is a better approximation of their own speech, and thereby conveys a greater truth, but that lesser beings are unable to fathom their message. Many think that they are just being coy.
 
 Dragons do not like it when explorers or travelers trespass in their territory. Whether it be a horde under a mountain, a quasar, or a reserved hyperlane route. Most significantly, dragons have never allowed anyone--including the Emerald Armada--to enter the region surrounding the core of the Greater Sphere. No quarter is given to those who do not turn away at the first warning.
+
+Draconic speech is the oldest language in the galaxy and probably the most difficult to learn. Although accurate pronunciation can only be achieved by dragons, dragonborn, and other reptilian and saurian peoples, any creature can speak it. Draconic is a tonal language where the grammar follows musical rules. You cannot merely speak draconic, you must sing it. Additionally, draconic is a highly metaphorical language, where the exact metaphors being used vary by region and culture. 
+
+Speaking in direct terms, to dragons, is considered rude. Directness signals a rudimentary grasp of the language, but no appreciation of their culture, and si similar to how a young wyrmling speaks. 
+
+But dragons do not use metaphor to avoid uncomfortable topics. They consider metaphor to be a richer form of communication. A dragon will tell you an inscrutable riddle that it claims reveals a deeper truth than a mortal could comprehend, and the dragon may be right about it.

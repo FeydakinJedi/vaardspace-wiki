@@ -1,5 +1,5 @@
 ---
-title: The Illithid
+title: Illithid
 description: The infection that consumes the mind
 ---
 Illithid. Mind Flayers. Brain worms. Intellect devourers. Parasitic consciousness made form in flesh. The illithid are  well known throughout the galaxy. If there is one thing any two wildspacers can agree on, it's that illithid are horrifying, terrifying, and dangerous. Many truces have been formed to exterminate an illithid hive.

@@ -1,0 +1,5 @@
+Grubnegrab is the beholder who created the Itch.VD network. Nobody knows where he operates the Itch network from. He seems to have no permanent residence and is very reclusive. THey have made public appearances, but they are few and far between.
+
+Grubnegrab created the Itch network about 40 years ago while visiting the Rock of Bral. While at the Laughing Beholder, Large Luigi told him how much his patrons would like to watch adventurers while having a drink. Grubnegrab summoned a familiar that was like a single eyeball on a stalk with an arm on the other end. The gazer attached to the wall of the bar and Large Luigi has been caring for it ever since.
+
+Grubnegrab always wants to find adventurers on new and exciting quests to follow. He gladly offers floating Gazer familiars to bands of adventurers. He loves to attach parasitic familiars to adventurers who record their most intimate moments in exchange for the gazers abilities.
