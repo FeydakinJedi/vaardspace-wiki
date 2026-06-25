@@ -11,7 +11,7 @@ Lesser spheres contain star systems. Imagine a solar system in a fish bowl and y
 
 When ships leave a lesser sphere, they can travel faster than the speed of light by entering the phlogiston and following hyperspace lanes. In regions where spheres are dense, you can travel from sphere to sphere in about five days. A typical trip between spheres takes ten to forty days. Travel time from sphere to sphere depends on the between the spheres, which hyperspace lanes you take, and the quality of your spelljamming helm.
 ## Intersphereal Space 
-Intersphereal Space is vast and empty. No same traveler would pass through intersphereal space to reach another sphere. The journey would take too long, and there is a risk of being attacked by space monsters or pirates.
+Intersphereal Space is vast and empty. No sane traveler would pass through intersphereal space to reach another sphere. The journey would take too long, and there is a risk of being attacked by space monsters or pirates.
 
 In between the spheres, things  that should not be seep into the cosmos. The bigger and emptier the region, the more likely that such aberrations worm their way into the material plane. Some legends say that such things have always existed, and were present before the cosmos itself came into existence. Others say that they have come from another plane to predate on the creatures in our reality. 
 ## Beyond

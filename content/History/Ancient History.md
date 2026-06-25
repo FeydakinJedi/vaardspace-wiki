@@ -30,10 +30,10 @@ The Arcane are credited with inventing the spelljammer helm. Indeed, it was Arca
 
 The official borders of the Arcane empire were fairly small, although they controlled many worlds. They were not ailitary expansionist empire, they were mercantile. The Arcane did not conquer worlds, instead, they became the majority trade partner with every other culture they encountered. They had no qualms about debt servitude and entire planets found themselves so reliant upon the Arcane that they became vassals.
 
-Their wife trade empire would not last forever. The Arcane too faded from the cosmos. The illithid began infecting their society, devouring them and appropriating their technology. The Arcane destroyed themselves in a desperate attempt to stop the mind flayers. They succeeded in stemming the further spread of the illithid, but the cost was every last Arcane.
+Their wide trade empire would not last forever. The Arcane too faded from the cosmos. The illithid began infecting their society, devouring them and appropriating their technology. The Arcane destroyed themselves in a desperate attempt to stop the mind flayers. They succeeded in stemming the further spread of the illithid, but the cost was every last Arcane.
 
 ### Nephilim
-The Nephilim are giants that come from another plane of existence. They entered the Greater Sagittarian Sphere during the late Juna age. The Nephilim came as conquerors. They used their great strength and magical skills to dominate the world's they inhabited. They used their wizardry to travel to other spheres and create an empire. And once they discovered the Arcane, they bought or stole spelljammong ships to travel the cosmos.
+The Nephilim are giants that come from another plane of existence. They entered the Greater Sagittarian Sphere during the late Juna age. The Nephilim came as conquerors. They used their great strength and magical skills to dominate the world's they inhabited. They used their wizardry to travel to other spheres and create an empire. And once they discovered the Arcane, they bought or stole spelljamming ships to travel the cosmos.
 
 The Nephilim spread from world to world until they had conquered nearly a quarter of the galaxy. Their rule lasted for three billion years. And then they attempted to claim the Temple of the Choir for their own.
 

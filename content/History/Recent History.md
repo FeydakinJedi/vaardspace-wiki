@@ -16,13 +16,16 @@ The now-famous Heroes of Vaardland were pivotal to the opening of Vaard. They ar
 
 These heroes were 
 Yvarie Galanodel
-Burgle Schmurgle
+[[Burgell Schmurgle]]
 Ernchait Seawail
 Detective Malatir
 Bilgar of Hilgar
 
+These adventurers were native to Vaardland and, like all others who lived there, were completely unaware that their continent was floating inside a crystal sphere in space. They met in the small village of Northern Nook, famous for its barley, apples, and turnips. They had answered a call for help from the dwarven princess Magda Mineshadow to help rescue her cousin from a goblin war band.
+### The Drowish-Goblin Conspiracy
+After defeating the goblin band near Northern Nook, the heroes
 
-These adventurers were native to Vaardland and, like all others who lived there, were completely unaware that their continent was floating inside a crystal sphere in space.  They discovered the truth of their world while thwarting a githyanki pirate raid on an Armada vessel.  The Armada learned that the Hand and Eye were likely to be found on Vaard, and so they were transporting the Sword of Kas to Vaardland to destroy the cursed artifacts. The heroes were brought on board the Armada Shrike *Nimbreth* to guard the sword when the pirates attacked. 
+They discovered the truth of their world while thwarting a githyanki pirate raid on an Armada vessel.  The Armada learned that the Hand and Eye were likely to be found on Vaard, and so they were transporting the Sword of Kas to Vaardland to destroy the cursed artifacts. The heroes were brought on board the Armada Shrike *Nimbreth* to guard the sword when the pirates attacked.
 
 The heroes had unearthed a Drowish invasion plan that very nearly overran Vaard. Over the course of a few centuries, the powerful Queen Nezznara had amassed a large army and began a slow infiltration of Vaard. Her goal was to steal The Hand and Eye of Vecna.
 

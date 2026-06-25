@@ -20,6 +20,6 @@ Dragons do not like it when explorers or travelers trespass in their territory. 
 
 Draconic speech is the oldest language in the galaxy and probably the most difficult to learn. Although accurate pronunciation can only be achieved by dragons, dragonborn, and other reptilian and saurian peoples, any creature can speak it. Draconic is a tonal language where the grammar follows musical rules. You cannot merely speak draconic, you must sing it. Additionally, draconic is a highly metaphorical language, where the exact metaphors being used vary by region and culture. 
 
-Speaking in direct terms, to dragons, is considered rude. Directness signals a rudimentary grasp of the language, but no appreciation of their culture, and si similar to how a young wyrmling speaks. 
+Speaking in direct terms, to dragons, is considered rude. Directness signals a rudimentary grasp of the language, but no appreciation of their culture, and is similar to how a young wyrmling speaks. 
 
 But dragons do not use metaphor to avoid uncomfortable topics. They consider metaphor to be a richer form of communication. A dragon will tell you an inscrutable riddle that it claims reveals a deeper truth than a mortal could comprehend, and the dragon may be right about it.
