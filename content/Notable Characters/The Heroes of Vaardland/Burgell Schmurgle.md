@@ -1,6 +1,7 @@
 **Pronounced**: (burGell ShmurGell)
 **Real Name**: Dingleberry Feltchbunger
-**Known Aliases**: Burgell Schmurgel, Bingbong Durgle, Fnimble Oakphallus, Lord Boddynock Timbercock, Kevin the Basedgod, Vaardland's King of Pop, Bobo Wilcox Birthplace: Outer Gnomerend, south woods
+**Known Aliases**: Burgell Schmurgel, Bingbong Durgle, Fnimble Oakphallus, Lord Boddynock Timbercock, Kevin the Basedgod, Vaardland's King of Pop, Bobo Wilcox 
+**Birthplace**: Outer Gnomerend, south woods
 **Criminal Profile**: Pathological liar with no poker face, incorrigible gambler, severely adept pickpocket with an eye for value (both monetary and emotional), legendary prankster.
 
 ![[NewBurgell.webp]]

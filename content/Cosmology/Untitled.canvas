@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"563c9775055f81cc","x":-480,"y":-720,"width":1000,"height":1000,"type":"file","file":"img/galaxy-background.jpg"}
+	],
+	"edges":[],
+	"drawInCanvas":{
+		"version":2,
+		"strokes":[],
+		"colorHistory":["#eab308","#e5ff5a","#b7ff5a"]
+	}
+}
