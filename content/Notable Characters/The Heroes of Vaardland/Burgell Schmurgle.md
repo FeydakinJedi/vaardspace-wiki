@@ -9,12 +9,12 @@
 Known for running from fights just as often as delivering killing blows to mighty foes. \[The High Elves have redacted many of the details of regarding the current whereabouts of Burgell\] "Kevin let your light shine down" is played in his memory.
 #### WANTED CRIMINAL IN SEVERAL JURISDICTIONS
 Including:
-- The Rock of Bral
-- The Infernal Rapture
-- Heimat
-- Biff Chalky's Family Funtastic Fallafel
-- Nephil
-- Target
+- The Infernal Rapture (establishment)
+- Biff Chalky's Funtastic Family Fallafel (establishment)
+- Nephil (empire)
+- YesAnd (planet)
+- Erythnul (planet)
+- Target (establishment)
 
 **RIP**: the spiders Dingus, Dungal, Drano, Bubba, Tiny, and Rex, Lil Ben the rat, and Darius Smuckers the owl who isn't dead, but he's dead to me Burgell will be remembered by the Heroes of Vaardland and a few dozen pigeons, and he will be feared by all those toadstool humping tickwits watching Itch. I am coming for you assholes.
 
